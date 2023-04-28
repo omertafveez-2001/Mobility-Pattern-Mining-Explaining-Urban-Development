@@ -11,7 +11,7 @@ https://msropendata.com/datasets/d19b353b-7483-4db7-a828-b130f6d1f035
 <br>
 The project explores the EDA processes obtained from the dataset and uses statistical inferences to explain Urban Development using 2 regression models.
 <br>
-The project is an extension to mobility pattern mining and just a tip of an iceberg of how pattern mining from granular datasets can be used to explain phenomenon not clearly explained within the dataset.
+The project is an extension to mobility pattern mining and just a tip of an iceberg of how pattern mining from granular datasets can be used to explain phenomenon not clearly explained within the dataset. It is important to note that the project includes the coordinates within Japan, specifically Beijing. Therefore, the entire dataset was not used. Cleaning processes have been done in the code provided. 
 <br>
 To read further about the project, the link to the article explaining each and every step of the notebook is attached below.
 <br>
